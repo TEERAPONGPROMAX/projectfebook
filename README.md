@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BookMart Frontend
 
 React 18 + JavaScript/JSX (Create React App), React Router, Fetch API, Jest และ React Testing Library ตามรูปแบบบทเรียน Frontend
@@ -18,3 +19,6 @@ Backend Go และไฟล์ฐานข้อมูล Supabase อยู�
 ## Deploy
 
 เชื่อมโฟลเดอร์นี้กับ Vercel โดยใช้ Build Command `npm run build`, Output Directory `build`; ตั้ง `REACT_APP_API_URL` ให้ชี้ไป URL ของ Render API ตามด้วย `/api`. ตั้งค่า rewrite จาก `vercel.json` สำหรับ React Router.
+=======
+# projectfebook
+>>>>>>> f53ddcb8ee3d1a4d6a3f10917e16efa86ac08369
